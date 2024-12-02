@@ -1,7 +1,7 @@
-- 👋 Hello, I’m @Labanazario
-- 👀 I’m interested in AI Research and Machine Learning
-- 🌱 I’m currently training a lot of AI stuff
-- 💞️ I’m looking to collaborate on AI development
+- 🤖 Hi, I’m @Labanazario, a software developer/publisher and mentor in the IT field. I am focused on Mobile Apps, specifically Android Apps.
+- ☕ Moved by coffee most of the day, I'm interested in AI Research and Machine Learning to bring apps a more versatile way of use
+- 🌱 I’m currently working on the development of AI-related software and training people to manage their digital businesses
+- 💞️ My goal is to build my own AI Model, which I started engineering from scratch as a teenager in 2014. Maybe someday.
 - 📫 Contact e-mail is: contato@labanazario.com
 
 <!---
